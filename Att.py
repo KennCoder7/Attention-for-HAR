@@ -1,5 +1,5 @@
 from AttCNN import AttCNN
-from kenn.utils import load_data
+from utils import load_data
 
 
 def main():
